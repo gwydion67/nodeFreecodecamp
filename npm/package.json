@@ -1,0 +1,21 @@
+{
+	"name": "fcc-learn-npm-package-json",
+  "author": "gwydion67",
+  "description": "this is freeCodeCamp nodeJs certification project",
+  "keywords": ["freecodecamp", "nodejs"],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+  "version": "1.2.0",
+  "license": "MIT",
+  "dependencies" : {
+  },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gwydion67/boilerplate-npm.git"
+	}
+}
